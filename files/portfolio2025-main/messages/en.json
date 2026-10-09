@@ -1,0 +1,171 @@
+{
+  "Metadata": {
+    "name": "Michael Torres",
+    "description": "Full-stack Systems Engineer with expertise in React, React Native, Next.js, Node.js, and SQL/NoSQL databases like PostgreSQL and MongoDB."
+  },
+  "Hero": {
+    "greeting": "Hi, I'm {name} 👋",
+    "description": "Full-stack Systems Engineer with expertise in React, React Native, Next.js, Node.js, and SQL/NoSQL databases like PostgreSQL and MongoDB."
+  },
+  "About": {
+    "title": "About",
+    "summary": "My expertise focuses on front-end technologies like React and Next.js, complemented by strong back-end development skills with Node.js and database systems. I excel in collaborative environments and am passionate about creating elegant solutions to complex technical challenges."
+  },
+  "Work": {
+    "title": "Work Experience",
+    "items": [
+      {
+        "company": "Universidad Popular del Cesar",
+        "href": "https://aguachica.unicesar.edu.co/",
+        "title": "IT Assistant",
+        "location": "On-site",
+        "start": "09/2024",
+        "end": "12/2024",
+        "description": "Worked as an IT Assistant at Universidad Popular del Cesar, supporting technological infrastructure administration, network management, equipment maintenance, and software development tasks, including programming, documentation, and functionality improvements. Provided technical support to students and faculty while enhancing the university's digital capabilities through the development and optimization of internal applications."
+      },
+      {
+        "company": "Freelance",
+        "href": "#",
+        "title": "Freelance Developer",
+        "location": "Remote",
+        "start": "2023",
+        "end": "Present",
+        "description": "As a freelance developer, I have led the design and development of custom software solutions for clients across various industries. Key projects include a symbolic computation application with LaTeX support, a platform for managing transportation services with real-time dashboards, and an institutional repository with advanced file management and GitHub integration."
+      }
+    ]
+  },
+  "Education": {
+    "title": "Education",
+    "items": [
+      {
+        "school": "Universidad Popular del Cesar",
+        "href": "https://aguachica.unicesar.edu.co/",
+        "degree": "Systems Engineering",
+        "start": "2020",
+        "end": "2024",
+        "description": "Acquired skills in Full Stack software development, including React, React Native, Next.js, Node.js, PHP, Java, C#, Python, and databases (SQL/NoSQL), with practical knowledge in agile methodologies (SCRUM) and network/server management."
+      },
+      {
+        "school": "Open English",
+        "href": "https://www.openenglish.com/",
+        "degree": "English B2",
+        "start": "2022",
+        "end": "2022",
+        "description": "Achieved B2 level (CEFR) with ability to communicate fluently in professional settings, understand technical texts, and express ideas clearly in both spoken and written form."
+      },
+      {
+        "school": "SENA",
+        "href": "https://www.sena.edu.co/",
+        "degree": "Technical Degree in Administrative Assistance",
+        "start": "2018",
+        "end": "2019",
+        "description": "Developed skills in document management, file administration, office software tools, and coordination of administrative activities to enhance organizational efficiency."
+      }
+    ]
+  },
+  "Skills": {
+    "title": "Skills"
+  },
+  "Projects": {
+    "title": "My Projects",
+    "subtitle": "Check out my latest work",
+    "description": "I've worked on a variety of projects, from simple websites to complex web applications. Here are a few of my favorites.",
+    "items": [
+      {
+        "title": "Real Time Chat",
+        "description": "Built a real-time chat application featuring user authentication, private messaging, and group chats, leveraging React, Express, and Socket.io. The application can be tested by creating two accounts in different browser tabs, different browsers, or different devices."
+      },
+      {
+        "title": "Project and Task Management",
+        "description": "Created a project and task management application with features for creating, updating, and deleting projects and tasks, using React, Express, and PostgreSQL."
+      },
+      {
+        "title": "Portfolio Template",
+        "description": "Designed a portfolio template using React, Sass and Framer Motion, featuring smooth animations and a responsive design."
+      },
+      {
+        "title": "This Portfolio Website",
+        "description": "Engineered a personal portfolio website using Next.js, Typescript, and TailwindCSS, showcasing my projects and skills with a focus on performance and SEO."
+      },
+      {
+        "title": "Social Media Application",
+        "description": "Full-stack social media app with React Native and Convex, featuring authentication, posts, likes, comments, and real-time synchronization. To test the app, scan the Expo QR code with the Expo Go app."
+      },
+      {
+        "title": "Music Player Application",
+        "description": "A sleek music player app with playlists, favorites, artist browsing, search, and seamless playback. Includes volume control, dark mode, and a custom audio player. Scan the Expo QR code with Expo Go to test."
+      }
+    ],
+    "links": {
+      "website": "Website",
+      "source": "Source",
+      "expo qr": "Expo QR"
+    }
+  },
+  "Certifications": {
+    "title": "Certifications",
+    "subtitle": "My professional achievements",
+    "description": "Key certifications that highlight my technical expertise and professional growth.",
+    "items": [
+      {
+        "title": "Switching, Routing and Wireless Essentials",
+        "dates": "Nov 27, 2023",
+        "location": "Universidad Popular del Cesar",
+        "description": "Gained expertise in CISCO Switching, Routing, and Wireless Essentials, covering fundamental concepts and practical applications.",
+        "certificate": "Certificate"
+      },
+      {
+        "title": "Introduction to networks",
+        "dates": "May 31, 2023",
+        "location": "Universidad Popular del Cesar",
+        "description": "Acquired foundational knowledge of CISCO networking, including protocols, topologies, and security practices.",
+        "certificate": "Certificate"
+      },
+      {
+        "title": "SCRUM for software development",
+        "dates": "May 11, 2023",
+        "location": "Remote",
+        "description": "Developed a strong understanding of SCRUM methodology, focusing on principles, roles, and best practices for software development."
+      },
+      {
+        "title": "API RESTful",
+        "dates": "Apr 12, 2023",
+        "location": "Remote",
+        "description": "Learned to design and implement secure and efficient RESTful APIs, emphasizing authentication and scalability.",
+        "certificate": "Certificate"
+      },
+      {
+        "title": "Professional GIT",
+        "dates": "Nov 14, 2022",
+        "location": "Remote",
+        "description": "Mastered advanced Git workflows and best practices for version control in collaborative environments.",
+        "certificate": "Certificate"
+      },
+      {
+        "title": "Open English",
+        "dates": "October 17, 2022",
+        "location": "Remote",
+        "description": "Obtained a B2 certification from Open English, showcasing advanced proficiency in English, including fluency in conversational and written communication.",
+        "certificate": "Certificate"
+      }
+    ]
+  },
+  "Contact": {
+    "title": "Contact",
+    "subtitle": "Get in Touch",
+    "description_pre": "Want to chat? ",
+    "description_post": "Use any of the social links provided. I'll respond as soon as I can!",
+    "twitterText": ""
+  },
+  "Navigation": {
+    "hero": "Home",
+    "about": "About",
+    "work": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "theme": "Theme"
+  }
+}
